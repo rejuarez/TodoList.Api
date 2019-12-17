@@ -1,5 +1,5 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+using System;
 
 namespace Todo.Data.Migrations
 {
@@ -55,7 +55,7 @@ namespace Todo.Data.Migrations
                     { 1, "bulb-outline", "Work" },
                     { 2, "person-done-outline", "Family" },
                     { 3, "map-outline", "Vacation" },
-                    { 4, "browser-outline", "Buys" },
+                    { 4, "browser-outline", "Shopping" },
                     { 5, "film-outline", "Movies" }
                 });
 
