@@ -9,3 +9,14 @@ C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.csproj.CopyComplete
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.dll
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.pdb
+C:\Demo\TodoList.Api\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Services.deps.json
+C:\Demo\TodoList.Api\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Services.dll
+C:\Demo\TodoList.Api\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Services.pdb
+C:\Demo\TodoList.Api\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Core.dll
+C:\Demo\TodoList.Api\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Core.pdb
+C:\Demo\TodoList.Api\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.csprojAssemblyReference.cache
+C:\Demo\TodoList.Api\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.AssemblyInfoInputs.cache
+C:\Demo\TodoList.Api\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.AssemblyInfo.cs
+C:\Demo\TodoList.Api\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.csproj.CopyComplete
+C:\Demo\TodoList.Api\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.dll
+C:\Demo\TodoList.Api\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.pdb

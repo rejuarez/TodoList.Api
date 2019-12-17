@@ -25,7 +25,7 @@ namespace Todo.Data.Repositories
                 .Where(x => x.CategoryId == ((CategoryID == null) ? x.CategoryId : CategoryID))
                 .Where(x => x.Description.Contains((!string.IsNullOrEmpty(Description)) ? Description : x.Description))
                 .Where(x => x.IsActive == ((IsActive == null) ? x.IsActive : IsActive)).OrderByDescending(x => x.CreationDate)
-                    .ToListAsync();
+                .Include(x => x.Category).ToListAsync();
         }
 
         private TodoDbContext TodoDbContext

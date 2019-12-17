@@ -85,5 +85,14 @@ namespace Todo.Api.Controllers
 
             return Ok(updatedTodoTaskResource);
         }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<TodoTaskResource>> GetById(int id)
+        {
+            var todotask = await _todoTaskService.GetTodoTaskById(id);
+            var todoTaskResource = _mapper.Map<TodoTask, TodoTaskResource>(todotask);
+            todoTaskResource.FileContent = todotask.FileContent;
+            return Ok(todoTaskResource);
+        }
     }
 }

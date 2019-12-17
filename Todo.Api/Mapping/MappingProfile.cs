@@ -15,7 +15,7 @@ namespace Todo.Api.Mapping
             ForMember(x => x.FileContent, opt => opt.MapFrom(src => src.Document.OpenReadStream().ToByteArray())).
             ForMember(x => x.FileContentType, opt => opt.MapFrom(src => src.Document.ContentType));
 
-            CreateMap<TodoTask, TodoTaskResource>();
+            CreateMap<TodoTask, TodoTaskResource>().ForMember(x => x.FileContent, opt => opt.Ignore()); ;
         }
     }
 }

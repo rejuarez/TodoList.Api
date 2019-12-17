@@ -13,5 +13,8 @@ namespace Todo.Api.Resources
         public DateTime LastModifiedDate { get; set; }
         public IFormFile Document { get; set; }
         public bool IsActive { get; set; }
+        public byte[] FileContent { get; set; }
+        public string FileContentType { get; set; }
+        public string FileName { get; set; }
     }
 }

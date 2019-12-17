@@ -5028,11 +5028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Services\\Todo.Services.csproj",
+      "projectUniqueName": "C:\\Demo\\TodoList.Api\\Todo.Services\\Todo.Services.csproj",
       "projectName": "Todo.Services",
-      "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Services\\Todo.Services.csproj",
+      "projectPath": "C:\\Demo\\TodoList.Api\\Todo.Services\\Todo.Services.csproj",
       "packagesPath": "C:\\Users\\Raul-MacBook-Windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Services\\obj\\",
+      "outputPath": "C:\\Demo\\TodoList.Api\\Todo.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5051,8 +5051,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj": {
-              "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj"
+            "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj": {
+              "projectPath": "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj"
             }
           }
         }

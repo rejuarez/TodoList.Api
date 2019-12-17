@@ -8,3 +8,13 @@ C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcor
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.dll
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.pdb
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.csprojAssemblyReference.cache
+C:\Demo\TodoList.Api\Todo.EF\bin\Debug\netcoreapp3.0\Todo.Core.deps.json
+C:\Demo\TodoList.Api\Todo.EF\bin\Debug\netcoreapp3.0\Todo.Core.runtimeconfig.json
+C:\Demo\TodoList.Api\Todo.EF\bin\Debug\netcoreapp3.0\Todo.Core.runtimeconfig.dev.json
+C:\Demo\TodoList.Api\Todo.EF\bin\Debug\netcoreapp3.0\Todo.Core.dll
+C:\Demo\TodoList.Api\Todo.EF\bin\Debug\netcoreapp3.0\Todo.Core.pdb
+C:\Demo\TodoList.Api\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.csprojAssemblyReference.cache
+C:\Demo\TodoList.Api\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.AssemblyInfoInputs.cache
+C:\Demo\TodoList.Api\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.AssemblyInfo.cs
+C:\Demo\TodoList.Api\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.dll
+C:\Demo\TodoList.Api\Todo.EF\obj\Debug\netcoreapp3.0\Todo.Core.pdb

@@ -182,6 +182,16 @@
                   },
                   "IsActive": {
                     "type": "boolean"
+                  },
+                  "FileContent": {
+                    "type": "string",
+                    "format": "byte"
+                  },
+                  "FileContentType": {
+                    "type": "string"
+                  },
+                  "FileName": {
+                    "type": "string"
                   }
                 }
               },
@@ -208,6 +218,15 @@
                   "style": "form"
                 },
                 "IsActive": {
+                  "style": "form"
+                },
+                "FileContent": {
+                  "style": "form"
+                },
+                "FileContentType": {
+                  "style": "form"
+                },
+                "FileName": {
                   "style": "form"
                 }
               }
@@ -273,6 +292,44 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TodoTaskResource"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TodoTaskResource"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TodoTaskResource"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "TodoTask"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "Success",
@@ -405,6 +462,19 @@
           },
           "isActive": {
             "type": "boolean"
+          },
+          "fileContent": {
+            "type": "string",
+            "format": "byte",
+            "nullable": true
+          },
+          "fileContentType": {
+            "type": "string",
+            "nullable": true
+          },
+          "fileName": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

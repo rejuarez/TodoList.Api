@@ -9362,11 +9362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Api\\Todo.Api.csproj",
+      "projectUniqueName": "C:\\Demo\\TodoList.Api\\Todo.Api\\Todo.Api.csproj",
       "projectName": "Todo.Api",
-      "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Api\\Todo.Api.csproj",
+      "projectPath": "C:\\Demo\\TodoList.Api\\Todo.Api\\Todo.Api.csproj",
       "packagesPath": "C:\\Users\\Raul-MacBook-Windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Api\\obj\\",
+      "outputPath": "C:\\Demo\\TodoList.Api\\Todo.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9385,14 +9385,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Data\\Todo.Data.csproj": {
-              "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Data\\Todo.Data.csproj"
+            "C:\\Demo\\TodoList.Api\\Todo.Data\\Todo.Data.csproj": {
+              "projectPath": "C:\\Demo\\TodoList.Api\\Todo.Data\\Todo.Data.csproj"
             },
-            "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj": {
-              "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj"
+            "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj": {
+              "projectPath": "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj"
             },
-            "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Services\\Todo.Services.csproj": {
-              "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Services\\Todo.Services.csproj"
+            "C:\\Demo\\TodoList.Api\\Todo.Services\\Todo.Services.csproj": {
+              "projectPath": "C:\\Demo\\TodoList.Api\\Todo.Services\\Todo.Services.csproj"
             }
           }
         }

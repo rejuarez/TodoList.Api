@@ -11,3 +11,16 @@ C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netc
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.csproj.CopyComplete
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.dll
 C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.pdb
+C:\Demo\TodoList.Api\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.deps.json
+C:\Demo\TodoList.Api\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.runtimeconfig.json
+C:\Demo\TodoList.Api\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.runtimeconfig.dev.json
+C:\Demo\TodoList.Api\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.dll
+C:\Demo\TodoList.Api\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.pdb
+C:\Demo\TodoList.Api\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Core.dll
+C:\Demo\TodoList.Api\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Core.pdb
+C:\Demo\TodoList.Api\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.csprojAssemblyReference.cache
+C:\Demo\TodoList.Api\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.AssemblyInfoInputs.cache
+C:\Demo\TodoList.Api\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.AssemblyInfo.cs
+C:\Demo\TodoList.Api\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.csproj.CopyComplete
+C:\Demo\TodoList.Api\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.dll
+C:\Demo\TodoList.Api\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.pdb

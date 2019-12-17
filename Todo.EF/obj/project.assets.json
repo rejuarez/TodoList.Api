@@ -5081,11 +5081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj",
+      "projectUniqueName": "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj",
       "projectName": "Todo.Core",
-      "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj",
+      "projectPath": "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj",
       "packagesPath": "C:\\Users\\Raul-MacBook-Windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\obj\\",
+      "outputPath": "C:\\Demo\\TodoList.Api\\Todo.EF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

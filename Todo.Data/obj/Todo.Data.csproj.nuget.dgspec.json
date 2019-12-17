@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Data\\Todo.Data.csproj": {}
+    "C:\\Demo\\TodoList.Api\\Todo.Data\\Todo.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Data\\Todo.Data.csproj": {
+    "C:\\Demo\\TodoList.Api\\Todo.Data\\Todo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Data\\Todo.Data.csproj",
+        "projectUniqueName": "C:\\Demo\\TodoList.Api\\Todo.Data\\Todo.Data.csproj",
         "projectName": "Todo.Data",
-        "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Data\\Todo.Data.csproj",
+        "projectPath": "C:\\Demo\\TodoList.Api\\Todo.Data\\Todo.Data.csproj",
         "packagesPath": "C:\\Users\\Raul-MacBook-Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.Data\\obj\\",
+        "outputPath": "C:\\Demo\\TodoList.Api\\Todo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj": {
-                "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj"
+              "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj": {
+                "projectPath": "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj": {
+    "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj",
+        "projectUniqueName": "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj",
         "projectName": "Todo.Core",
-        "projectPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\Todo.Core.csproj",
+        "projectPath": "C:\\Demo\\TodoList.Api\\Todo.EF\\Todo.Core.csproj",
         "packagesPath": "C:\\Users\\Raul-MacBook-Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raul-MacBook-Windows\\source\\repos\\TodoSolution\\Todo.EF\\obj\\",
+        "outputPath": "C:\\Demo\\TodoList.Api\\Todo.EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
