@@ -1,0 +1,13 @@
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.deps.json
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.runtimeconfig.json
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.runtimeconfig.dev.json
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Data.pdb
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Core.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\bin\Debug\netcoreapp3.0\Todo.Core.pdb
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.csprojAssemblyReference.cache
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.AssemblyInfoInputs.cache
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.AssemblyInfo.cs
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.csproj.CopyComplete
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Data\obj\Debug\netcoreapp3.0\Todo.Data.pdb

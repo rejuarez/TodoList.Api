@@ -1,0 +1,10 @@
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\bin\Debug\netcoreapp3.0\Todo.EF.deps.json
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\bin\Debug\netcoreapp3.0\Todo.EF.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.EF.AssemblyInfoInputs.cache
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.EF.AssemblyInfo.cs
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\bin\Debug\netcoreapp3.0\Todo.EF.runtimeconfig.json
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\bin\Debug\netcoreapp3.0\Todo.EF.runtimeconfig.dev.json
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\bin\Debug\netcoreapp3.0\Todo.EF.pdb
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.EF.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.EF.pdb
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.EF\obj\Debug\netcoreapp3.0\Todo.EF.csprojAssemblyReference.cache

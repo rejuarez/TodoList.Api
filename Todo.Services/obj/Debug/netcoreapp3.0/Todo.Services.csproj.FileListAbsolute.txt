@@ -1,0 +1,11 @@
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Services.deps.json
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Services.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Services.pdb
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Core.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\bin\Debug\netcoreapp3.0\Todo.Core.pdb
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.csprojAssemblyReference.cache
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.AssemblyInfoInputs.cache
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.AssemblyInfo.cs
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.csproj.CopyComplete
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.dll
+C:\Users\Raul-MacBook-Windows\source\repos\TodoSolution\Todo.Services\obj\Debug\netcoreapp3.0\Todo.Services.pdb
